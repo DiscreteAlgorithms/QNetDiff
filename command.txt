@@ -1,0 +1,11 @@
+python tool.py input/genus_count_table.tsv input/sample2category_576.tsv Stage_0
+
+python tool.py input/genus_count_table.tsv input/sample2category_576.tsv Stage_III_IV
+
+
+python tool.py input/genus_count_table.tsv input/sample2twoCategory.tsv Disease
+
+python tool.py input/toy_example_count.tsv input/toy_example_group.tsv x
+
+
+sudo mv fonts/ /usr/share/fonts/truetype
